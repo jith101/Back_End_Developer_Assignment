@@ -104,7 +104,7 @@ DEBUG=True
 SECRET_KEY=your-secret-key-here
 ```
 ## Image
-https://github.com/jith101/Back_End_Developer_Assignment/blob/master/lastscnshot.png?raw=true
+lastscnshot.png
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
